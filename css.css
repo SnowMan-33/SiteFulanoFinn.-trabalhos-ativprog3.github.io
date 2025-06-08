@@ -1,0 +1,29 @@
+body{
+	background-color: #ddd;
+	color: #444;
+	font-family: Helvetica Neue;	
+	width:60%;
+	margin: 0 auto;
+	padding-top:25px;
+}
+
+.main{
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+section{
+	padding-bottom: 25px;
+}
+
+#foto{
+	width: 120px;
+	height: 120px;
+	border-radius: 20px 20px 20px 20px;
+}
+
+h1, h2{
+	color:rgb(140, 76, 8);
+	user-select:none;
+}
